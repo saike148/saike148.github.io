@@ -28,17 +28,13 @@ projects:
     projects:
     # - repo-name
 
-social_media:
-  instagram: im._sai
-  github: saike148
-  email: dsaikrishna200r@gmail.com
   
-# social_media:
+ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: im._sai
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
@@ -61,18 +57,5 @@ topics:
   - name: Sass
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
 
-#date format to show the date of the posts
-date_format: "%B %-d, %Y"
 
