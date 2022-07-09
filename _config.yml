@@ -1,4 +1,4 @@
-layout: centre
+layout: stacked
 style: dark
 
 plugins:
@@ -24,7 +24,7 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
     # - repo-name
 
